@@ -1,7 +1,7 @@
 # TechStore
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YagoLopesFranca/projeto-loja-virtual/main/assets/demonstracao.gif" alt="Demonstração do projeto TechStore mostrando filtro e busca">
+  <img src="https://raw.githubusercontent.com/YagoLopesFranca/projeto-loja-virtual/main/assets-demonstracao.gif/demonstracao.gif" alt="Demonstração do projeto TechStore mostrando filtro e busca">
 </p>
 
 ## 💻 Sobre o Projeto
